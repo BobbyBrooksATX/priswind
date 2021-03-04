@@ -1,0 +1,58 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FeatureGrid",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "How will slice machine impact you as a developer?",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Here are only some of the things that will change once you convert your website to slice machine. More coming soon!",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": { "width": 900, "height": 500 },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.prismic.io/kris-slice-machine/534d3a52-cfd2-492d-898a-70661345d63c_codepen.png?auto=compress,format"
+        },
+        "title": "The truth lives in code",
+        "description": "No more jumping between Prismic & your code."
+      },
+      {
+        "image": {
+          "dimensions": { "width": 900, "height": 500 },
+          "alt": "Screenshots",
+          "copyright": null,
+          "url": "https://images.prismic.io/kris-slice-machine/534d3a52-cfd2-492d-898a-70661345d63c_codepen.png?auto=compress,format"
+        },
+        "title": "Screenshots",
+        "description": "No more icons, it's time to take beautiful preview of your slices"
+      },
+      {
+        "image": {
+          "dimensions": { "width": 900, "height": 500 },
+          "alt": "Shared slices",
+          "copyright": null,
+          "url": "https://images.prismic.io/kris-slice-machine/534d3a52-cfd2-492d-898a-70661345d63c_codepen.png?auto=compress,format"
+        },
+        "title": "Shared slices",
+        "description": "Slices are updated across all of your custom types"
+      }
+    ],
+    "slice_type": "feature_grid"
+  }
+]
